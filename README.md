@@ -1,4 +1,4 @@
-This project is a basic website created with HTML, CSS, and JavaScript for a CSUN web development class. It uses elements like <header>, <nav>, <main>, <section>, and attributes such as id, class, src and alt. The page includes a title, navigation bar, centered GIF, and styled text.
+This project is a basic website created with HTML, CSS, and JavaScript for a CSUN web development class. It uses elements like header, nav, main, section, and attributes such as id, class, src, and alt. The page includes a title, navigation bar, centered GIF, and styled text.
 
 Project Directory Structure
 .
